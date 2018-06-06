@@ -10,11 +10,12 @@ https://<span></span>docs.google.<span></span>com/document/d/**187zU0PXoEN4eUOIu
 https://<span></span>docs.google.<span></span>com/uc?export=download&id=**ID_FILE**
 
 ## Google files
-https://<span>docs.google.<span>com/document/d/**ID_FILE**/export?format=**OUT_FORMAT**
 
-https://<span>docs.google.<span>com/document/d/**ID_FILE**/export?format=**OUT_FORMAT**&gid=**ID_SHEET** 
-  
-  
+> https://<span>docs.google.<span>com/document/d/**ID_FILE**/export?format=**OUT_FORMAT**
+
+> https://<span>docs.google.<span>com/document/d/**ID_FILE**/export?format=**OUT_FORMAT**&gid=**ID_SHEET** 
+
+
 For Google files we need indicate the out format. Google file formats and the destiny formats avalaible:
 
 | Google file   | Out formats avalaible                               |
@@ -23,7 +24,6 @@ For Google files we need indicate the out format. Google file formats and the de
 | Sheets        | PDF, XLSX, ODS, CSV, TSV, ZIP (webpage)             |
 | Slides        | PDF, PPTX, SVG, PNG, JPEG, TXT                      |
 | Forms         | No avalaible exports                                |
-
 
 ### Google Docs example links
 | Google file   | Link
@@ -45,4 +45,16 @@ For Google files we need indicate the out format. Google file formats and the de
 | ODS           | https://docs.google.com/spreadsheets/d/1CbzDHPfXXNAkogdfdik0TISTAnU2WK6CT3eiJhs2XVk/export?format=ods  |
 | CSV           | https://docs.google.com/spreadsheets/d/1CbzDHPfXXNAkogdfdik0TISTAnU2WK6CT3eiJhs2XVk/export?format=csv  |
 | TSV           | https://docs.google.com/spreadsheets/d/1CbzDHPfXXNAkogdfdik0TISTAnU2WK6CT3eiJhs2XVk/export?format=tsv  |
-| ZIP (webpage) | https://docs.google.com/spreadsheets/d/1CbzDHPfXXNAkogdfdik0TISTAnU2WK6CT3eiJhs2XVk/export?format=zip&gid=sheet1 |
+| ZIP (webpage) | https://docs.google.com/spreadsheets/d/1CbzDHPfXXNAkogdfdik0TISTAnU2WK6CT3eiJhs2XVk/export?format=zip  |
+
+CSV, PDF and TSM out formats allow download specific sheet just adding id of the sheet to url. 
+
+You can see the id of the sheet in the url when open file in navigator.
+
+**Example**
+
+URL of second sheet of th file:
+https://<span></span>docs.google.<span></span>com/spreadsheets/d/1CbzDHPfXXNAkogdfdik0TISTAnU2WK6CT3eiJhs2XVk/edit#**gid=579865827**
+
+URL to download a second sheet of the file:
+https://docs.google.com/spreadsheets/d/1CbzDHPfXXNAkogdfdik0TISTAnU2WK6CT3eiJhs2XVk/export?format=csv&gid=579865827
