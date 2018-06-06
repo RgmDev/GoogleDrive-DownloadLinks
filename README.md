@@ -10,6 +10,9 @@ https://<span></span>docs.google.<span></span>com/document/d/**187zU0PXoEN4eUOIu
 https://<span></span>docs.google.<span></span>com/uc?export=download&id=**ID_FILE**
 
 ## Google files
+https://<span>docs.google.<span>com/document/d/**ID_FILE**/export?format=**OUT_FORMAT**
+  
+  
 For Google files we need indicate the out format. Google file formats and the destiny formats avalaible:
 
 | Google file   | Out formats avalaible                               |
@@ -18,8 +21,6 @@ For Google files we need indicate the out format. Google file formats and the de
 | Sheets        | PDF, XLSX, ODS, CSV, TSV, ZIP (webpage)             |
 | Slides        | PDF, PPTX, SVG, PNG, JPEG, TXT                      |
 | Forms         | No avalaible exports                                |
-
-https://<span>docs.google.<span>com/document/d/**ID_FILE**/export?format=**OUT_FORMAT**
   
 ### Google Docs examples links
 | Google file   | Link
