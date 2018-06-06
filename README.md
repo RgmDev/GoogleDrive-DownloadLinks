@@ -18,3 +18,5 @@ For Google files we need indicate the out format. Google file formats and the de
 | Sheets        | PDF, XLSX, ODS, CSV, TSV, ZIP (webpage)             |
 | Slides        | PDF, PPTX, SVG, PNG, JPEG, TXT                      |
 | Forms         | No avalaible exports                                |
+
+
