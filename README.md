@@ -29,15 +29,15 @@ https://<span></span>docs.google.<span></span>com/document/d/**187zU0PXoEN4eUOIu
   
 > https://<span></span>docs.google.<span></span>com/**drawings**/d/**ID_FILE**/**OUT_FORMAT**
 
-For Google files we need indicate the out format. Google file formats and the out formats avalaible:
+For Google files we need indicate the output format. List of Google file formats and the output format availables:
 
-| Google file   | Out formats avalaible                               |
+| Google file   | Output format availables                            |
 | ------------- | :-------------------------------------------------- |
 | Docs          | PDF, DOCX, RTF, ODT, TXT, HTML, PNG, ZIP (webpage)  |
 | Sheets        | PDF, XLSX, ODS, CSV, TSV, ZIP (webpage)             |
 | Presentations | PDF, PPTX, SVG, PNG, JPEG, TXT                      |
 | Drawings      | PDF, PNG, SVG, JPEG                                 |
-| Forms         | No avalaible exports                                |
+| Forms         | No available to exports                             |
 
 ### Google Docs example links
 | Output format | Link                                                                                               |
