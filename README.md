@@ -7,7 +7,7 @@ The files which we want download must be shared to all people without restrictio
 https://<span></span>docs.google.<span></span>com/document/d/**187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0**/edit?usp=sharing
 
 ## No Google files 
-https://<span></span>docs.google.<span></span>com/uc?export=download&id=**ID_FILE**
+> https://<span></span>docs.google.<span></span>com/uc?export=download&id=**ID_FILE**
 
 | Format file   | Link                                                                            |
 | ------------- | :-------------------------------------------------------------------------------|
