@@ -22,7 +22,7 @@ For Google files we need indicate the out format. Google file formats and the de
 | Slides        | PDF, PPTX, SVG, PNG, JPEG, TXT                      |
 | Forms         | No avalaible exports                                |
   
-### Google Docs examples links
+### Google Docs example links
 | Google file   | Link
 | ------------- | :------------------------------------------------------------------------------------------------- |
 | PDF           | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=pdf  |
@@ -33,3 +33,13 @@ For Google files we need indicate the out format. Google file formats and the de
 | HTML          | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=html |
 | PNG           | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=png  |
 | ZIP (webpage) | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=zip  | 
+
+### Google Sheets example links
+| Google file   | Link
+| ------------- | :------------------------------------------------------------------------------------------------- |
+| PDF           | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=pdf  |
+| XLSX          | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=xlsx |
+| ODS           | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=ods  |
+| CSV           | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=csv  |
+| TSV           | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=tsv  |
+| ZIP (webpage) | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=zip  |
