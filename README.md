@@ -86,9 +86,9 @@ URL to download a second page of the file:
 > https://docs.google.com/presentation/d/11jGrGud853SqlHmqUaXUIAsBtoEBhl00tQIMlJmfhjQ/export/png?pageid=g3c2e32217d_0_0
 
 ### Google Drawings example links
-| Output format | Link                                                                                 |
-| ------------- | :----------------------------------------------------------------------------------- |
-| PDF           | https://docs.google.com/drawings/d/1B1rehQ2V1Psyi61QALmyXPzeere_2Rcr40DwyW-A1Hs/pdf  |
-| PNG           | https://docs.google.com/drawings/d/1B1rehQ2V1Psyi61QALmyXPzeere_2Rcr40DwyW-A1Hs/png  |
-| SVG           | https://docs.google.com/drawings/d/1B1rehQ2V1Psyi61QALmyXPzeere_2Rcr40DwyW-A1Hs/svg  |
-| JPEG          | https://docs.google.com/drawings/d/1B1rehQ2V1Psyi61QALmyXPzeere_2Rcr40DwyW-A1Hs/jpeg |
+| Output format | Link                                                                                        |
+| ------------- | :------------------------------------------------------------------------------------------ |
+| PDF           | https://docs.google.com/drawings/d/1B1rehQ2V1Psyi61QALmyXPzeere_2Rcr40DwyW-A1Hs/export/pdf  |
+| PNG           | https://docs.google.com/drawings/d/1B1rehQ2V1Psyi61QALmyXPzeere_2Rcr40DwyW-A1Hs/export/png  |
+| SVG           | https://docs.google.com/drawings/d/1B1rehQ2V1Psyi61QALmyXPzeere_2Rcr40DwyW-A1Hs/export/svg  |
+| JPEG          | https://docs.google.com/drawings/d/1B1rehQ2V1Psyi61QALmyXPzeere_2Rcr40DwyW-A1Hs/export/jpeg |
