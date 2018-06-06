@@ -80,6 +80,6 @@ URL of second page of the file:
 > https://docs.google.com/presentation/d/11jGrGud853SqlHmqUaXUIAsBtoEBhl00tQIMlJmfhjQ/edit#slide=id.**g3c2e32217d_0_0**
 
 URL to download a second page of the file:
-> https://docs.google.com/presentation/d/11jGrGud853SqlHmqUaXUIAsBtoEBhl00tQIMlJmfhjQ/export/png/pageid=g3c2e32217d_0_0
+> https://docs.google.com/presentation/d/11jGrGud853SqlHmqUaXUIAsBtoEBhl00tQIMlJmfhjQ/export/png?pageid=g3c2e32217d_0_0
 
 
