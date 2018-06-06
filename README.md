@@ -37,9 +37,11 @@ For Google files we need indicate the out format. Google file formats and the de
 ### Google Sheets example links
 | Google file   | Link
 | ------------- | :------------------------------------------------------------------------------------------------- |
-| PDF           | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=pdf  |
-| XLSX          | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=xlsx |
-| ODS           | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=ods  |
-| CSV           | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=csv  |
-| TSV           | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=tsv  |
-| ZIP (webpage) | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=zip  |
+| PDF           | https://docs.google.com/document/d/1CbzDHPfXXNAkogdfdik0TISTAnU2WK6CT3eiJhs2XVk/export?format=pdf  |
+| XLSX          | https://docs.google.com/document/d/1CbzDHPfXXNAkogdfdik0TISTAnU2WK6CT3eiJhs2XVk/export?format=xlsx |
+| ODS           | https://docs.google.com/document/d/1CbzDHPfXXNAkogdfdik0TISTAnU2WK6CT3eiJhs2XVk/export?format=ods  |
+| CSV           | https://docs.google.com/document/d/1CbzDHPfXXNAkogdfdik0TISTAnU2WK6CT3eiJhs2XVk/export?format=csv  |
+| TSV           | https://docs.google.com/document/d/1CbzDHPfXXNAkogdfdik0TISTAnU2WK6CT3eiJhs2XVk/export?format=tsv  |
+| ZIP (webpage) | https://docs.google.com/document/d/1CbzDHPfXXNAkogdfdik0TISTAnU2WK6CT3eiJhs2XVk/export?format=zip  |
+
+
