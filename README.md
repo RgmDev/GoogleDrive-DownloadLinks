@@ -60,7 +60,7 @@ URL of second sheet of the file:
 URL to download a second sheet of the file:
 > https://docs.google.com/spreadsheets/d/1CbzDHPfXXNAkogdfdik0TISTAnU2WK6CT3eiJhs2XVk/export?format=csv&gid=579865827
 
-### Google Slides example links
+### Google Presentations example links
 | Output format | Link                                                                                                   |
 | ------------- | :----------------------------------------------------------------------------------------------------- |
 | PDF           | https://docs.google.com/presentation/d/11jGrGud853SqlHmqUaXUIAsBtoEBhl00tQIMlJmfhjQ/export?format=pdf  |
