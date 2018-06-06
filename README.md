@@ -11,11 +11,13 @@ https://<span></span>docs.google.<span></span>com/uc?export=download&id=**ID_FIL
 
 ## Google files
 
-> https://<span>docs.google.<span>com/**document**/d/**ID_FILE**/export?format=**OUT_FORMAT**
+> https://<span></span>docs.google.<span></span>com/**document**/d/**ID_FILE**/export?format=**OUT_FORMAT**
 
-> https://<span>docs.google.<span>com/**spreadsheets**/d/**ID_FILE**/export?format=**OUT_FORMAT**&gid=**ID_SHEET** 
+> https://<span></span>docs.google.<span></span>com/**spreadsheets**/d/**ID_FILE**/export?format=**OUT_FORMAT**&gid=**ID_SHEET** 
   
-> https://<span>docs.google.<span>com/**presentation**/d/**ID_FILE**/export?format=**OUT_FORMAT**&pageid=**ID_PAGE** 
+> https://<span></span>docs.google.<span></span>com/**presentation**/d/**ID_FILE**/export/**OUT_FORMAT**?pageid=**ID_PAGE** 
+  
+> https://<span></span>docs.google.<span></span>com/**drawings**/d/**ID_FILE**/**OUT_FORMAT**
 
 For Google files we need indicate the out format. Google file formats and the out formats avalaible:
 
@@ -23,7 +25,8 @@ For Google files we need indicate the out format. Google file formats and the ou
 | ------------- | :-------------------------------------------------- |
 | Docs          | PDF, DOCX, RTF, ODT, TXT, HTML, PNG, ZIP (webpage)  |
 | Sheets        | PDF, XLSX, ODS, CSV, TSV, ZIP (webpage)             |
-| Slides        | PDF, PPTX, SVG, PNG, JPEG, TXT                      |
+| Presentations | PDF, PPTX, SVG, PNG, JPEG, TXT                      |
+| Drawings      | PDF, PNG, SVG, JPEG                                 |
 | Forms         | No avalaible exports                                |
 
 ### Google Docs example links
@@ -82,4 +85,10 @@ URL of second page of the file:
 URL to download a second page of the file:
 > https://docs.google.com/presentation/d/11jGrGud853SqlHmqUaXUIAsBtoEBhl00tQIMlJmfhjQ/export/png?pageid=g3c2e32217d_0_0
 
-
+### Google Drawings example links
+| Output format | Link                                                                                 |
+| ------------- | :----------------------------------------------------------------------------------- |
+| PDF           | https://docs.google.com/drawings/d/1B1rehQ2V1Psyi61QALmyXPzeere_2Rcr40DwyW-A1Hs/pdf  |
+| PNG           | https://docs.google.com/drawings/d/1B1rehQ2V1Psyi61QALmyXPzeere_2Rcr40DwyW-A1Hs/png  |
+| SVG           | https://docs.google.com/drawings/d/1B1rehQ2V1Psyi61QALmyXPzeere_2Rcr40DwyW-A1Hs/svg  |
+| JPEG          | https://docs.google.com/drawings/d/1B1rehQ2V1Psyi61QALmyXPzeere_2Rcr40DwyW-A1Hs/jpeg |
