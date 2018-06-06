@@ -23,12 +23,12 @@ https://<span>docs.google.<span>com/document/d/**ID_FILE**/export?format=**OUT_F
   
 ### Google Docs examples links
 | Google file   | Link
-| ------------- | :------------------------------------------------------------------------------------------------ |
-| PDF           | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=pdf |
-| DOCX          | |
-| RTF           | |
-| ODT           | |
-| TXT           | |
-| HTML          | |
-| PNG           | | 
-| ZIP (webpage) | | 
+| ------------- | :------------------------------------------------------------------------------------------------- |
+| PDF           | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=pdf  |
+| DOCX          | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=docx |
+| RTF           | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=rtf  |
+| ODT           | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=odt  |
+| TXT           | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=txt  |
+| HTML          | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=html |
+| PNG           | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=png  |
+| ZIP (webpage) | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=zip  | 
