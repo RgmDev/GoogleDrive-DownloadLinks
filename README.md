@@ -12,11 +12,23 @@ https://<span></span>docs.google.<span></span>com/uc?export=download&id=**ID_FIL
 ## Google files
 For Google files we need indicate the out format. Google file formats and the destiny formats avalaible:
 
-| Google files  | Out formats avalaible                               |
-| ------------- |:----------------------------------------------------|
+| Google file   | Out formats avalaible                               |
+| ------------- | :-------------------------------------------------- |
 | Docs          | PDF, DOCX, RTF, ODT, TXT, HTML, PNG, ZIP (webpage)  |
 | Sheets        | PDF, XLSX, ODS, CSV, TSV, ZIP (webpage)             |
 | Slides        | PDF, PPTX, SVG, PNG, JPEG, TXT                      |
 | Forms         | No avalaible exports                                |
 
-
+https://<span>docs.google.<span>com/document/d/**ID_FILE**/export?format=**OUT_FORMAT**
+  
+### Google Docs examples links
+| Google file   | Link
+| ------------- | :------------------------------------------------------------------------------------------------ |
+| PDF           | https://docs.google.com/document/d/187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0/export?format=pdf |
+| DOCX          | |
+| RTF           | |
+| ODT           | |
+| TXT           | |
+| HTML          | |
+| PNG           | | 
+| ZIP (webpage) | | 
