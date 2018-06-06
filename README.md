@@ -9,6 +9,16 @@ https://<span></span>docs.google.<span></span>com/document/d/**187zU0PXoEN4eUOIu
 ## No Google files 
 https://<span></span>docs.google.<span></span>com/uc?export=download&id=**ID_FILE**
 
+| Format file   | Link                                                                            |
+| ------------- | :-------------------------------------------------------------------------------|
+| WORD          | https://docs.google.com/uc?export=download&id=1aH5wAy1X7Zkyopm71UFD26oCbv2ieuoz |
+| EXCEL         | https://docs.google.com/uc?export=download&id=1xD7iOdRvlq0EKVi6lD0ZihhYfDGVfu-o |
+| PDF           | https://docs.google.com/uc?export=download&id=1br18KmYp0oiZgfR0UJD0nmlgxZiaUh2V |
+| IMAGE         | https://docs.google.com/uc?export=download&id=1cTbY-MMZQM0-v0o6Z22qPZgyz1mvY6vv |
+| POWER POINT   | https://docs.google.com/uc?export=download&id=1EUaLMXUyWdPcWMhTNy4bY-gDiTRFVmFX |
+| TXT           | https://docs.google.com/uc?export=download&id=1DkMyY1NOjaAJNowqBb6ZJZF5E4mdu-FX |
+| RAR           | https://docs.google.com/uc?export=download&id=1iapMTaAh54Z9hz2KypPi6Gvaah7qzBcc |
+
 ## Google files
 
 > https://<span></span>docs.google.<span></span>com/**document**/d/**ID_FILE**/export?format=**OUT_FORMAT**
