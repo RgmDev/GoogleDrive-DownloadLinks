@@ -8,7 +8,7 @@ Sharring settings
 Anyone with the click can view 
 
 ## Get ID of the file 
-https://docs.google.com/document/d/*187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0*/edit?usp=sharing
+https://docs.google.com/document/d/ *187zU0PXoEN4eUOIuatqexDX194wS90xrOpUaXeNsFj0* /edit?usp=sharing
 
 ## Google files 
 
