@@ -12,7 +12,7 @@ https://<span></span>docs.google.<span></span>com/uc?export=download&id=**ID_FIL
 ## Google files
 https://<span>docs.google.<span>com/document/d/**ID_FILE**/export?format=**OUT_FORMAT**
 
-https://<span>docs.google.<span>com/document/d/**ID_FILE**/export?format=**OUT_FORMAT**&gid=**SHEET_NAME**
+https://<span>docs.google.<span>com/document/d/**ID_FILE**/export?format=**OUT_FORMAT**&gid=**ID_SHEET** 
   
   
 For Google files we need indicate the out format. Google file formats and the destiny formats avalaible:
