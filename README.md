@@ -102,3 +102,88 @@ URL to download a second page of the file:
 | PNG           | https://docs.google.com/drawings/d/1B1rehQ2V1Psyi61QALmyXPzeere_2Rcr40DwyW-A1Hs/export/png  |
 | SVG           | https://docs.google.com/drawings/d/1B1rehQ2V1Psyi61QALmyXPzeere_2Rcr40DwyW-A1Hs/export/svg  |
 | JPEG          | https://docs.google.com/drawings/d/1B1rehQ2V1Psyi61QALmyXPzeere_2Rcr40DwyW-A1Hs/export/jpeg |
+
+# Google Drive CDN 
+You can use Google Drive like a CDN 
+
+PHP Example:
+
+**style.css** stored in Google Drive:
+``` css
+body {
+	background-color: rgb( 171, 202, 252 );
+	padding: 20px 50px 20px 50px;
+}
+
+h1, h2, p {
+	font-family: arial;
+	color: darkblue;
+	text-align: center;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+p {
+	text-align: left;
+}
+
+``` 
+
+PHP function to insert a CSS file 
+```php
+<?php 
+function drive_css( $url ){
+	$file = file( $url );
+	$out = '';
+	foreach( $file as $line ){
+		$out .= $line;
+	}	
+	return $out;
+}
+?>
+```
+
+PHP/HTML file
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+<?php print( drive_css( 'https://docs.google.com/uc?export=download&id=1XYpL3wpX-uoZ2zRdlxiuR3I0JwkEfnfK' ) ); ?>
+	</style>
+</head>
+<body>
+
+	<h1>LOREM IPSUM DOLOR SIT AMET</h1>
+	<h2>https://drive.google.com/open?id=1XYpL3wpX-uoZ2zRdlxiuR3I0JwkEfnfK</h2>
+	<p><b>CSS content:</b></p>
+	<p>
+<?php 
+	$file = file( 'https://docs.google.com/uc?export=download&id=1XYpL3wpX-uoZ2zRdlxiuR3I0JwkEfnfK' );
+	$css = '';
+	foreach( $file as $line ){
+		print( str_replace( "\t", '&nbsp;&nbsp;', str_replace( "\r\n", '<br>', $line ) ) );
+	}
+?>
+	</p>
+	
+</body>
+</html>
+
+<?php 
+function drive_css( $url ){
+	$file = file( $url );
+	$out = '';
+	foreach( $file as $line ){
+		$out .= $line;
+	}	
+	return $out;
+}
+?>
+```
